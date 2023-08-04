@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Quiz-FlashCard
 
 This is a basic React Project which uses the functionalities like implementing 'useState' hook and controlled elements.
 
