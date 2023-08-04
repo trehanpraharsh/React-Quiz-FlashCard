@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+This is a basic React Project which uses the functionalities like implementing 'useState' hook and controlled elements.
+
+# Getting Started with Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
